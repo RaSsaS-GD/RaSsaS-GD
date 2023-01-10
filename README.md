@@ -1,16 +1,21 @@
-### Hi there 👋
+(https://wallpaper.dog/large/20382103.jpg)
+### Welcome Traveler
+#### Let me introduce myself, my name is BlindBoko and I'm the master and CEO of this Profile.
+![Let me introduce myself, my name is BlindBoko and I'm the master and CEOof this Profile.
 
-<!--
-**RaSsaS-GD/RaSsaS-GD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jokes aside, hello, I am Blindboko from El Salvador, I am an avid fan of videogames and sports alike, and also an aspiring game developer. Currently still in high-school, I've been learning how to code on my spare time, I enjoy developing games, I am yet to finish one, but I like replicating mechanics of games I love or just replicating the whole gameplay.
 
-Here are some ideas to get you started:
+## Skills: 
+ * C# 
+ * Java
+ * JS
+ * HTML
+ * CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my own game. 
+- 🌱 I’m currently learning Japanese 
+- 💬 Ask me about anything Unity related. 
+- 📫 How to reach me: jdam137@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RaSsaS-GD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/BlindBoko24)  
