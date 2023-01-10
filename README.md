@@ -4,23 +4,12 @@
 
 Jokes aside, hello, I am Blindboko from El Salvador, I am an avid fan of videogames and sports alike, and also an aspiring game developer. Currently still in high-school, I've been learning how to code on my spare time, I enjoy developing games, I am yet to finish one, but I like replicating mechanics of games or just replicating the whole gameplay.
 
-public namespace Me
-{
-  public static class MyInfo
-  {
-    public static void Main()
-    {
-      if (Skills)
-      {
-        C#.value = 90f;
-        Java.value = 80f;
-        JS = 60f;
-        HTML = 50f;
-        CSS = 30f;
-      }
-    }
-  }
-}
+## Skills:
+- C#.value = 90%;
+- Java.value = 80%;
+- JS = 60%;
+- HTML = 50%;
+- CSS = 30%;
 
 ## Else: 
 - 🔭 I’m currently working on my own game. 
